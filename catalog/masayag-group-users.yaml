@@ -19,8 +19,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: 
-spec: gabriel-farache
+  name: gabriel-farache
+spec:
   profile:
     displayName: Gabriel Farache
   memberOf: [development]
