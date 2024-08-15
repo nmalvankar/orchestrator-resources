@@ -15,12 +15,3 @@ spec:
   profile:
     displayName: Moti Asayag
   memberOf: [development]
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
-  name: gabriel-farache
-spec:
-  profile:
-    displayName: Gabriel Farache
-  memberOf: [development]
