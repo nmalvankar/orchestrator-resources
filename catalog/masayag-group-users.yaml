@@ -10,8 +10,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: masayag
+  name: nmalvankar
 spec:
   profile:
-    displayName: Moti Asayag
+    displayName: Nikhil Malvankar
   memberOf: [development]
