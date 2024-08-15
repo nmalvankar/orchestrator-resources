@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: gabriel-farache
+  name: nmalvankar
 spec:
   profile:
-    displayName: Gabriel Farache
+    displayName: Nikhil Malvankar
   memberOf: [development]
